@@ -496,3 +496,9 @@ h5 {
     width: 33%;
     background-image: url(image/three.jpeg);
 }
+.nine{
+    height: 695px;
+    width: 105%;
+    background-image: url(https://preview.colorlib.com/theme/allfood/assets/img/gallery/section_bg02.png.webp);
+    background-repeat: no-repeat;
+}
